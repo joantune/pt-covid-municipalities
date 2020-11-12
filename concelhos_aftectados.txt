@@ -1,0 +1,121 @@
+Alcácer do Sal
+Alcochete
+Alenquer
+Alfândega da Fé
+Alijó
+Almada
+Amadora
+Amarante
+Amares
+Arouca
+Arruda dos Vinhos
+Aveiro
+Azambuja
+Baião
+Barcelos
+Barreiro
+Batalha
+Beja
+Belmonte
+Benavente
+Borba
+Braga
+Bragança
+Cabeceiras de Basto
+Cadaval
+Caminha
+Cartaxo
+Cascais
+Castelo Branco
+Castelo de Paiva
+Celorico de Basto
+Chamusca
+Chaves
+Cinfães
+Constância
+Covilhã
+Espinho
+Esposende
+Estremoz
+Fafe
+Felgueiras
+Figueira da Foz
+Fornos de Algodres
+Fundão
+Gondomar
+Guarda
+Guimarães
+Idanha-a-Nova
+Lisboa
+Loures
+Lousada
+Macedo de Cavaleiros
+Mafra
+Maia
+Marco de Canaveses
+Matosinhos
+Mesão Frio
+Mogadouro
+Moimenta da Beira
+Moita
+Mondim de Basto
+Montijo
+Murça
+Odivelas
+Oeiras
+Oliveira de Azeméis
+Oliveira de Frades
+Ovar
+Paços de Ferreir
+Palmela
+Paredes de Coura
+Paredes
+Penacova
+Penafiel
+Peso da Régua
+Pinhel
+Ponte de Lima
+Porto
+Póvoa de Varzim
+Póvoa de Lanhoso
+Redondo
+Ribeira da Pena
+Rio Maior
+Sabrosa
+Santa Comba Dão
+Santa Maria da Feira
+Santa Marta de Penaguião
+Santarém
+Santo Tirso
+São Brás de Alportel
+São João da Madeira
+São João da Pesqueira
+Sardoal
+Seixal
+Sesimbra
+Setúbal
+Sever do Vouga
+Sines
+Sintra
+Sobral de Monte Agraço
+Tabuaço
+Tondela
+Trancoso
+Trofa
+Vale da Cambra
+Valença
+Valongo
+Viana do Alentejo
+Viana do Castelo
+Vila do Conde
+Vila Flor
+Vila Franca de Xira
+Vila Nova de Cerveira
+Vila Nova de Famalicão
+Vila Nova de Gaia
+Vila Pouca de Aguiar
+Vila Real
+Vila Velha de Ródão
+Vila Verde
+Vila Viçosa
+Vizela
