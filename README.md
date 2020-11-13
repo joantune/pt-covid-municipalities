@@ -1,3 +1,6 @@
+
+Map available at: https://www.google.com/maps/d/u/0/edit?mid=1U8d8MTkkHopVFi43pvG3KtnAtYVBldtv&usp=sharing
+
 List of 'concelhos' taken from https://gist.github.com/vilaca/6659438
 
 List of restricted 'concelhos' taken from: https://www.publico.pt/2020/10/31/politica/noticia/121-concelhos-70-portugueses-novas-medidas-restricao-regressa-ficar-casa-teletrabalho-obrigatorio-1937484
